@@ -1,3 +1,5 @@
+
+const drivers = ['Peter', 'Osman', 'Natalie', 'Faith Kurui'];
 const returnFirstTwoDrivers = function(drivers) {
     return drivers.slice(0, 2);
   };
